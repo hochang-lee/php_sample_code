@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9dbf1b6-b471-4dd8-af3b-8a97d55d803f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1vsUZwmrqiRkyRkmtnx7KUJAxCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/Oauth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CodeSender.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/code/CodeSender.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.CodeSender.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9dbf1b6-b471-4dd8-af3b-8a97d55d803f" name="Default Changelist" comment="" />
+      <created>1627350360633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627350360633</updated>
+      <workItem from="1627350361986" duration="1456000" />
+      <workItem from="1627352136538" duration="1739000" />
+      <workItem from="1627354024779" duration="1855000" />
+      <workItem from="1627355957517" duration="1738000" />
+      <workItem from="1627357767140" duration="1765000" />
+      <workItem from="1627359594510" duration="1759000" />
+      <workItem from="1627361402957" duration="1793000" />
+      <workItem from="1627363211798" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="198" key="#PHP" timestamp="1627350811516">
+      <screen x="0" y="23" width="1792" height="1051" />
+    </state>
+    <state x="564" y="198" key="#PHP/0.23.1792.1051@0.23.1792.1051" timestamp="1627350811516" />
+    <state x="360" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627350819474">
+      <screen x="0" y="23" width="1792" height="1051" />
+    </state>
+    <state x="360" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1051@0.23.1792.1051" timestamp="1627350819474" />
+    <state x="251" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1627356100294">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state x="251" y="237" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1052@0.23.1792.1052" timestamp="1627356100294" />
+    <state x="639" y="281" key="NewPhpClassDialog" timestamp="1627360875858">
+      <screen x="0" y="23" width="1792" height="1050" />
+    </state>
+    <state x="639" y="281" key="NewPhpClassDialog/0.23.1792.1050@0.23.1792.1050" timestamp="1627360875858" />
+    <state x="639" y="281" key="NewPhpClassDialog/0.23.1792.1052@0.23.1792.1052" timestamp="1627356091219" />
+    <state x="539" y="479" key="NewPhpFileDialog" timestamp="1627359104419">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state x="539" y="479" key="NewPhpFileDialog/0.23.1792.1051@0.23.1792.1051" timestamp="1627355827055" />
+    <state x="539" y="479" key="NewPhpFileDialog/0.23.1792.1052@0.23.1792.1052" timestamp="1627359104419" />
+    <state x="397" y="187" key="SettingsEditor" timestamp="1627350367007">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state x="397" y="187" key="SettingsEditor/0.23.1792.1052@0.23.1792.1052" timestamp="1627350367007" />
+  </component>
+</project>
