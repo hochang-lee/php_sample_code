@@ -10,17 +10,25 @@
 예시 코드 : main.php 내에서 확인 할 수 있습니다.
 
 [디렉토리]
+
 code : 특정 도메인에 대한 제한 설정 및 해제시 사용되는 파일을 모아둔 디렉토리입니다.
+
 model : 모델 클래스를 모아둔 디렉토리입니다.
+
 Oauth : Oauth 관련 파일을 모아둔 디렉토리입니다.
 
 [파일]
+
 CodeSender.php : 해당 도메인에 허용된 유저만 접속하도록 설정 or 해제에 필요한 코드를 전송하는 클래스입니다.
+
 RestrictCode.php : 허용된 유저만 접속할 수 있게 인증을 체크하는 코드가 든 파일입니다.
+
 UnRestrictCode.php : 제한 해제시 보낼 코드가 든 파일입니다.
 
 User.php : User 테이블에 접근하는 클래스입니다.
 
 Oauth2.php : Oauth 객체를 생성하는 클래스입니다.
+
 GoogleOauth : GoogleOauth 객체를 생성하는 클래스입니다.
+
 GoogleService : 구글 내에서 액세스 토큰을 가지고 활용할 수 있는 서비스를 담고 있는 클래스입니다.
